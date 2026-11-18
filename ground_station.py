@@ -1,5 +1,5 @@
 # ground_station.py
-# Autor: Michal Kosmowski - Aplikacja nadawcza Stacji Naziemnej
+
 
 import socket
 import time

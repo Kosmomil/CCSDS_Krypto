@@ -1,5 +1,5 @@
 # satellite.py
-# Autor: Michal Kosmowski - Aplikacja odbiorcza Satelity
+
 
 import socket
 from config import UDP_IP, CHANNEL_TO_SATELLITE_PORT, BUFFER_SIZE

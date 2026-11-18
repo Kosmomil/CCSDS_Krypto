@@ -1,5 +1,5 @@
 # crypto_engine.py
-# Autor: Kamil Czapla - Warstwa kryptograficzna AES-128-GCM oraz ochrona Anti-Replay
+
 
 import struct
 from cryptography.hazmat.primitives.ciphers.aead import AESGCM

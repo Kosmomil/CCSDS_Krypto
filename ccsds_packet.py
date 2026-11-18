@@ -1,5 +1,5 @@
 # ccsds_packet.py
-# Autor: Michal Kosmowski - Warstwa protokolu CCSDS SPP (CCSDS 133.0-B-2)
+
 
 import struct
 from dataclasses import dataclass

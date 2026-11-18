@@ -1,5 +1,4 @@
 # channel_simulator.py
-# Autor: Maciej Ocwieja - Symulator kanalu satelitarnego (Latency, Packet Loss, BER)
 
 import socket
 import time
